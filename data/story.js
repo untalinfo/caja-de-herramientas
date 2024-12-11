@@ -214,28 +214,6 @@ var story = {
        "tmpDestModal": false
       }
      ]
-    },
-    {
-     "name": "btn watch",
-     "rect": {
-      "x": 1246,
-      "y": 523,
-      "width": 113,
-      "height": 28.30384063720703
-     },
-     "index": 6,
-     "reactions": [
-      {
-       "action": "FRAME",
-       "navigationType": "NAVIGATE",
-       "trigger": "ON_CLICK",
-       "srcPageIndex": 2,
-       "frameIndex": 1,
-       "transAnimType": 0,
-       "transAnimDuration": 300,
-       "tmpDestModal": false
-      }
-     ]
     }
    ],
    "layout": null
@@ -268,7 +246,7 @@ var story = {
       "width": 75,
       "height": 57
      },
-     "index": 7,
+     "index": 6,
      "reactions": [
       {
        "action": "FRAME",
@@ -335,7 +313,7 @@ var story = {
       "width": 295,
       "height": 300
      },
-     "index": 8,
+     "index": 7,
      "reactions": [
       {
        "action": "FRAME",
@@ -357,7 +335,7 @@ var story = {
       "width": 295,
       "height": 300
      },
-     "index": 9,
+     "index": 8,
      "reactions": [
       {
        "action": "FRAME",
@@ -379,7 +357,7 @@ var story = {
       "width": 295,
       "height": 300
      },
-     "index": 10,
+     "index": 9,
      "reactions": [
       {
        "action": "FRAME",
@@ -401,7 +379,7 @@ var story = {
       "width": 91,
       "height": 91
      },
-     "index": 11,
+     "index": 10,
      "reactions": [
       {
        "action": "FRAME",
@@ -450,7 +428,7 @@ var story = {
       "width": 75,
       "height": 57
      },
-     "index": 12,
+     "index": 11,
      "reactions": [
       {
        "action": "FRAME",
